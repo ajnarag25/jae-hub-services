@@ -1,4 +1,4 @@
-# jae_hub_services - Bouquet & Bar
+# jae-hub-services - Bouquet & Bar
 
 Jae Hub is a 15-year-old IT company based in Tomas Morato, Quezon City. With a focus on delivering exceptional web development services, the company specializes in creating e-commerce websites, landing pages, and point of sale systems. Our aim is to provide our clients with a website that is not only visually appealing, but also user-friendly, cost-effective, functional, and tailored to meet the specific needs of their personal and business goals. With a team of dedicated professionals, Jae Hub is committed to helping their clients succeed in the online world by providing high-quality web development services.
 <ul>
